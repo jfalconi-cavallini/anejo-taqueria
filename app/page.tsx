@@ -985,7 +985,7 @@ function ContactSection() {
 
         <div style={contactGrid}>
           {[
-            { icon: "📍", label: "Address", value: "123 Taqueria Blvd\nYour City, TX 75001", href: "#" },
+            { icon: "📍", label: "Address", value: "7355 N Beach St Ste 161 \nFort Worth, TX 76137", href: "https://maps.app.goo.gl/sfjQi9bx7H942Vzk7?g_st=ic" },
             { icon: "📞", label: "Phone", value: "(817) 773-9929", href: "tel:+18177739929" },
             { icon: "🕐", label: "Hours", value: "Mon–Fri: 11am – 9pm\nSat–Sun: 9am – 10pm", href: null },
             { icon: "📸", label: "Instagram", value: "@anejotaqueria", href: "https://instagram.com/anejotaqueria" },
