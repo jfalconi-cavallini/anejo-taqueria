@@ -986,9 +986,9 @@ function ContactSection() {
         <div style={contactGrid}>
           {[
             { icon: "📍", label: "Address", value: "123 Taqueria Blvd\nYour City, TX 75001", href: "#" },
-            { icon: "📞", label: "Phone", value: "(555) 123-4567", href: "tel:+15551234567" },
+            { icon: "📞", label: "Phone", value: "(817) 773-9929", href: "tel:+18177739929" },
             { icon: "🕐", label: "Hours", value: "Mon–Fri: 11am – 9pm\nSat–Sun: 9am – 10pm", href: null },
-            { icon: "📸", label: "Instagram", value: "@anejotaqueria", href: "https://instagram.com" },
+            { icon: "📸", label: "Instagram", value: "@anejotaqueria", href: "https://instagram.com/anejotaqueria" },
           ].map((info) => (
             <div key={info.label} style={contactCard}>
               <span style={{ fontSize: "2rem" }}>{info.icon}</span>
